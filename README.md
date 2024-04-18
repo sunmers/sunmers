@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunmers, im developer in python,html/css.
-- 😄 Pronouns: he/hes
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: im like penguins
 
 <!---
